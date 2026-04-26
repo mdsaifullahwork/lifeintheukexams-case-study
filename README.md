@@ -78,11 +78,11 @@ A custom-built plugin was developed to provide exam functionality not available 
 
 ## 📸 Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Practice Test](screenshots/practice-test.png)
-![Results](screenshots/results.png)
-![Blogs](screenshots/blogs.png)
-![Learning Resources](screenshots/learning_resources.png)
+![Homepage](screenshots/homepage.PNG)
+![Practice Test](screenshots/practice-test.PNG)
+![Results](screenshots/results.PNG)
+![Blogs](screenshots/blogs.PNG)
+![Learning Resources](screenshots/learning-resources.PNG)
 
 ---
 
